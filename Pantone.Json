@@ -6,91 +6,91 @@
 		{
 			"name":"Banane",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-glace.jpg",
-			"hex":"deadbeef",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(244, 209, 66)"
 		},
 		{
 			"name":"Avocat",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-avocat.jpg",
-			"hex":"#5ac900",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(90, 201, 0)"
 		},
 		{
 			"name":"Cookie",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-cake.jpg",
-			"hex":"#c99a00",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(201, 154, 0)"
 		},
 		{
 			"name":"Carrotes",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-carotte.jpg",
-			"hex":"#f97000",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(249, 112, 0)"
 		},
 		{
 			"name":"Champignon",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-champignons.jpeg",
-			"hex":"#ffe5d1",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(255, 229, 209)"
 		},
 		{
 			"name":"Donut",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-donut.jpg",
-			"hex":"#ffe1aa",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(255, 225, 170)"
 		},
 		{
 			"name":"Epices",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-epices.jpg",
-			"hex":"#ffb226",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(255, 178, 38)"
 		},
 		{
 			"name":"Baies",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-herbes-aromatiques.jpg",
-			"hex":"#99dd2c",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(153, 221, 44)"
 		},
 		{
 			"name":"Macaron",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-macaron.jpg",
-			"hex":"#ffa3fd",
+			"hex":"0xdeadbeef",
 			"rgb":"#ffa3fd"
 		},
 		{
 			"name":"Micado",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-mikado.jpeg",
-			"hex":"#6b4200",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(107, 66, 0)"
 		},
 		{
 			"name":"Oeuf",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-oeuf.jpeg",
-			"hex":"#38ffdd",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(56, 255, 221)"
 		},
 		{
 			"name":"Piment",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-poivron.jpg",
-			"hex":"#d1000a",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(209, 0, 10)"
 		},
 		{
 			"name":"Tomate",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-tomate.jpg",
-			"hex":"#d13700",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(209, 55, 0)"
 		},
 		{
 			"name":"Agrumes",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-agrumes.jpeg",
-			"hex":"#f2ff00",
+			"hex":"0xdeadbeef",
 			"rgb":"rgb(242, 255, 0)"
 		},
 		{
 			"name":"Beurre",
 			"img":"https://jefouinetufouines.fr/wp-content/uploads/2016/09/food-pantone-a-tartiner.jpg",
-			"hex":"#cc9200",
+			"hex":"#0xdeadbeef",
 			"rgb":"rgb(204, 146, 0)"
 		},
 	]
